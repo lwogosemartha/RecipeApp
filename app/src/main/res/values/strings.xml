@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="top_bar_title">Your Recipes</string>
+
+    <string name="welcome_title">Welcome to Recipe App!</string>
+    <string name="welcome_subtitle">Discover delicious recipes below:</string>
+
+    <!-- Recipe Names -->
+    <string name="recipe_matooke">Matooke</string>
+    <string name="recipe_rolex">Rolex</string>
+    <string name="recipe_luwombo">Luwombo</string>
+
+    <!-- Recipe Descriptions -->
+    <string name="desc_matooke">Steamed green bananas</string>
+    <string name="desc_rolex">Rolled chapati and eggs</string>
+    <string name="desc_luwombo">Meat in banana leaves</string>
+
+    <string name="add_recipe">Add New Recipe</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="recipe_info">Information</string>
+    <string name="ingredients">Ingredients </string>
+    <string name="steps">Add steps followed</string>
+    <string name="save_recipe">Save Recipe</string>
+    <string name="new_recipe_screen_title">Add New Recipe</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_horizontal_padding">12dp</dimen>
+    <dimen name="card_vertical_padding">8dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="card_content_padding">16dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+    <!-- Image sizes -->
+    <dimen name="recipe_image_size">80dp</dimen>
+    <dimen name="logo_image_size">32dp</dimen>
+
+    <!-- Spacers -->
+    <dimen name="spacer_small">8dp</dimen>
+    <dimen name="spacer_medium">16dp</dimen>
+    <dimen name="spacer_large">32dp</dimen>
+
+    <!-- Top Bar -->
+    <dimen name="top_bar_logo_padding_end">8dp</dimen>
+    <dimen name="top_bar_logo_inner_padding">4dp</dimen>
+    <dimen name="top_bar_text_padding_bottom">2dp</dimen>
+
+</resources>
